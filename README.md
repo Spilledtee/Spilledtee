@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Spilledtee, im a digital marketer and brand designer. Welcome to my Github profile 
-- 👀 I’m interested in the online business space and solving users problems with design and i like trying new things. In my free time you can find me reading a book or watching a series 
-- 🌱 I’m currently learning Figma and Google Ads campaigns
-- 💞️ I’m looking to collaborate on developing a good user experience and research as well as marketing 
+- 👋 Hi, I’m @Spilledtee, im a DevOps Enthusiast. Welcome to my Github profile 
+- 👀 I’m passionate about solving user problems through technology and enjoy experimenting with new tools and techniques. In my free time you can find me reading a book or watching a series 
+- 🌱 I’m currently learning Linux, Bash scripting, and the OSI model, and I’m eager to deepen my understanding of DevOps practices.
+- 💞️  I’m looking to collaborate on projects that enhance user experience and explore the intersection of development and operations
 - 📫 How to reach me...
 Linkedin: https://www.linkedin.com/in/christiana-itiekhao-090b84213
 Email: christianashedrack@gmail.com
